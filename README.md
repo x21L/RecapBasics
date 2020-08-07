@@ -21,4 +21,5 @@
 4. Do you need to know the size of arrays during compile time?
 5. Which types can arrays have?
 7. Declare arrays in two different ways. At least one one-dimensional and one multidimensional array.
-8. Sort an arbitrary integer array. Use any algorithm you like. 
+8. Sort an arbitrary integer array. Use any algorithm you like.
+9. Print out a two-dimensional array.
